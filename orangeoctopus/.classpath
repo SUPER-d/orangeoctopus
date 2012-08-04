@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<classpath>
-	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Slick2d"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Sphinx4"/>
-	<classpathentry kind="lib" path="C:/Users/Svetlana/Downloads/lwjgl-2.8.4/lwjgl-2.8.4/jar/lwjgl.jar"/>
-	<classpathentry kind="output" path="bin"/>
-</classpath>
