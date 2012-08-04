@@ -1,0 +1,11 @@
+*.class
+
+orangeoctopus/.classpath
+orangeoctopus/.settings/
+orangeoctopus/.project
+orangeoctopus/bin/
+
+# Package Files #
+*.jar
+*.war
+*.ear
