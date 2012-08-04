@@ -5,6 +5,7 @@ public class OctopusMain extends BasicGame {
 	public OctopusMain(String title) {
 		super(title);
 		// TODO Auto-generated constructor stub
+		
 	}
 
 	@Override
@@ -24,5 +25,15 @@ public class OctopusMain extends BasicGame {
 		// TODO Auto-generated method stub
 		
 	}
+	
+	public static void main(String[] args) 
+			throws SlickException
+    {
+         AppGameContainer app = 
+			new AppGameContainer(new OctopusMain("OrangeOctopus"));
+ 
+         app.setDisplayMode(800, 600, false);
+         app.start();
+    }
 
 }
